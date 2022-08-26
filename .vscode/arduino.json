@@ -2,5 +2,5 @@
     "configuration": "cpu=atmega2560",
     "board": "arduino:avr:mega",
     "sketch": "CEIS101_July2022_Final_Project_Michael_Miller.ino",
-    "port": "/dev/ttyACM0"
+    "port": "/dev/ttyACM1"
 }
